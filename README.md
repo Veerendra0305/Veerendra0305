@@ -180,13 +180,6 @@ Computer Networks
 Operating Systems
 Software Engineering
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veerendra0305&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Veerendra0305&theme=tokyonight&hide_border=true" /> </div>
 
 🌐 Languages
 Kannada — Native      English          Hindi         Telugu
