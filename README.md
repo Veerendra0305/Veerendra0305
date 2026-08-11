@@ -180,9 +180,6 @@ Computer Networks
 Operating Systems
 Software Engineering
 
-📈 GitHub Statistics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Veerendra0305&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veerendra0305&layout=compact&theme=tokyonight&hide_border=true" />
