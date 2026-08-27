@@ -1,289 +1,197 @@
-<div align="center">
+\<div align="center">
 
-# 👋 Hi, I'm Veerendra R
+\# VEERENDRA R
 
-### Full Stack Developer • CSE Undergraduate • AI/ML Enthusiast
+\### Full Stack Developer | Computer Science & Engineering Student
 
-<p>
-  <strong>Building scalable web applications and intelligent systems that solve real-world problems.</strong>
-</p>
+\`AI-Integrated Full Stack Developer\`
 
-<p>
-  <a href="https://github.com/Veerendra0305">
-    <img src="https://img.shields.io/badge/GitHub-Veerendra0305-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/veerendra-r-227935309/">
-    <img src="https://img.shields.io/badge/LinkedIn-Veerendra_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rveerendra244@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+\<p>
+  \<a href="[https://github.com/Veerendra0305](https://github.com/Veerendra0305)">
+    \<img src="[https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)">
+  \</a>
+  \<a href="[https://www.linkedin.com/in/veerendra-r-227935309/](https://www.linkedin.com/in/veerendra-r-227935309/)">
+    \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)">
+  \</a>
+  \<a href="mailto\:rveerendra244\@gmail.com">
+    \<img src="[https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)">
+  \</a>
+\</p>
 
-<img src="https://komarev.com/ghpvc/?username=Veerendra0305&style=flat-square&color=blue" alt="Profile Views"/>
+\<img src="[https://komarev.com/ghpvc/?username=Veerendra0305&style=flat-square&color=blue](https://komarev.com/ghpvc/?username=Veerendra0305\&style=flat-square\&color=blue)" alt="Profile Views"/>
 
-</div>
+\</div>
 
----
+\---
 
-## 🚀 About Me
+\## 👋 Hi, I'm Veerendra R
 
-🎓 Computer Science & Engineering undergraduate at **K.S. Institute of Technology, Bengaluru**
+🎓 Computer Science & Engineering undergraduate at \*\*K.S. Institute of Technology, Bengaluru\*\*
 
-💻 Aspiring **Full Stack Developer** with hands-on experience developing responsive frontend applications, REST APIs, backend services, and database-driven systems.
+💻 Aspiring \*\*Full Stack Developer\*\* with hands-on experience building responsive web applications and backend services.
 
-🤖 Exploring **Artificial Intelligence & Machine Learning** through practical projects involving prediction, optimization, and data-driven decision making.
+🤖 Currently working on \*\*AI-driven transportation optimization\*\* using Machine Learning, Random Forest, XGBoost, and Maps/Traffic APIs.
 
-🌱 Currently developing **GoGreen**, an AI-powered carbon-aware transportation optimization system.
+🚀 Interested in building efficient, scalable, and production-oriented systems that solve real-world problems.
 
-🎯 Interested in building **efficient, scalable, production-oriented software** that combines modern web technologies with intelligent solutions.
+\---
 
----
+\## 🚀 Currently Building
 
-## 🧑‍💻 Current Focus
+\### 🌱 GoGreen — Carbon-Aware Eco-Route Optimization
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│                    CURRENTLY BUILDING                   │
-├─────────────────────────────────────────────────────────┤
-│ 🌱 GoGreen                                               │
-│                                                         │
-│ AI-driven carbon-aware transportation optimization      │
-│                                                         │
-│ React.js • Python • Flask • MySQL                       │
-│ Machine Learning • Random Forest • XGBoost              │
-│ Maps / Traffic APIs                                     │
-└─────────────────────────────────────────────────────────┘
-```
+An AI-driven transportation optimization system focused on recommending fuel-efficient and sustainable routes.
 
-### 🌱 GoGreen — Carbon-Aware Eco-Route Optimization
+\*\*Currently working with:\*\*
 
-An AI-driven transportation optimization system designed to recommend **fuel-efficient and sustainable routes**.
+\- Machine Learning
+\- Random Forest
+\- XGBoost
+\- React.js
+\- Python & Flask
+\- MySQL
+\- Maps / Traffic APIs
 
-The system considers:
+The system analyzes route distance, traffic conditions, vehicle characteristics, and travel time to optimize transportation based on \*\*carbon emissions, travel time, and distance\*\*.
 
-* 🚗 Vehicle characteristics
-* 📍 Route distance
-* 🚦 Traffic conditions
-* ⏱️ Travel time
-* ⛽ Fuel consumption
-* 🌍 Carbon emissions
+\---
 
-The optimization focuses on balancing **carbon emissions, travel time, and distance**.
+\## 🛠️ Tech Stack
 
-**Technology:**
-`React.js` `Python` `Flask` `MySQL` `Random Forest` `XGBoost` `Maps / Traffic APIs`
+\### 💻 Programming Languages
 
-**Status:** 🚧 In Progress
+\<p>
+\<img src="[https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/C-Basic-A8B9CC?style=flat-square&logo=c&logoColor=black](https://img.shields.io/badge/C-Basic-A8B9CC?style=flat-square\&logo=c\&logoColor=black)"/>
+\</p>
 
----
+\### 🎨 Frontend
 
-# 🛠️ Technical Skills
+\<p>
+\<img src="[https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)"/>
+\<img src="[https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React.js-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)"/>
+\<img src="[https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Tailwind\_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)"/>
+\</p>
 
-### 💻 Programming Languages
+\### ⚙️ Backend
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-Basic-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-</p>
+\<p>
+\<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/REST\_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square\&logo=fastapi\&logoColor=white)"/>
+\</p>
 
-### 🎨 Frontend Development
+\### 🗄️ Database
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
+\<p>
+\<img src="[https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/MySQL\_Workbench-00758F?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL_Workbench-00758F?style=flat-square\&logo=mysql\&logoColor=white)"/>
+\</p>
 
-### ⚙️ Backend Development
+\### 🤖 AI / Machine Learning
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+\<p>
+\<img src="[https://img.shields.io/badge/Machine\_Learning-102230?style=flat-square](https://img.shields.io/badge/Machine_Learning-102230?style=flat-square)"/>
+\<img src="[https://img.shields.io/badge/Random\_Forest-2E7D32?style=flat-square](https://img.shields.io/badge/Random_Forest-2E7D32?style=flat-square)"/>
+\<img src="[https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square\&logo=xgboost\&logoColor=white)"/>
+\</p>
 
-### 🗄️ Database
+\### ☁️ Cloud & Tools
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+\<p>
+\<img src="[https://img.shields.io/badge/Google\_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/VS\_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Google\_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square\&logo=googlecolab\&logoColor=black)"/>
+\</p>
 
-### 🤖 AI / Machine Learning
+\---
 
-<p>
-<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Random_Forest-2E7D32?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
-</p>
+\## 🚀 Featured Projects
 
-### ☁️ Cloud & Developer Tools
+\### 🏗️ Online Employee Booking System
 
-<p>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-</p>
+\*\*React.js • TypeScript • Vite • Tailwind CSS • Python • Flask • MySQL\*\*
 
----
+A full-stack employee booking and workforce management system designed to coordinate different project stakeholders.
 
-# ⭐ Featured Projects
+\#### ✨ Features
 
-## 🏗️ Online Employee Booking System
+\- 🔐 Role-based access control
+\- 👨‍💼 Admin dashboard
+\- 👤 Client dashboard
+\- 🧑‍💼 Manager dashboard
+\- 👷 Employee dashboard
+\- 📋 Employee booking and assignment
+\- 🏗️ Project management
+\- 📊 Task-status tracking
+\- 🗄️ MySQL database integration
+\- 🔌 Flask REST API backend
+\- 📱 Responsive React interface
 
-**Full Stack Workforce Management Platform**
+\> \*\*Status:\*\* ✅ Completed
 
-`React.js` `TypeScript` `Vite` `Tailwind CSS` `Python` `Flask` `MySQL`
+[View Repository]\([https://github.com/Veerendra0305](https://github.com/Veerendra0305))
 
-A full-stack employee booking and workforce management system designed to coordinate multiple project stakeholders.
+\---
 
-### Key Features
+\### 🌱 GoGreen — Carbon-Aware Eco-Route Optimization
 
-* 🔐 Role-based access control
-* 👨‍💼 Admin dashboard
-* 👤 Client dashboard
-* 🧑‍💼 Manager dashboard
-* 👷 Employee dashboard
-* 📋 Employee booking & assignment
-* 🏗️ Project management
-* 📊 Task-status tracking
-* 🗄️ MySQL database integration
-* 🔌 Flask REST API backend
-* 📱 Responsive React interface
+\*\*React.js • Python • Flask • MySQL • Machine Learning • Random Forest • XGBoost\*\*
 
-**Status:** ✅ Completed
+An AI-based eco-routing system designed to recommend fuel-efficient transportation routes while considering sustainability.
 
-🔗 **Repository:**
-https://github.com/Veerendra0305
+\#### ✨ Features
 
----
+\- 🚗 Multi-vehicle transportation analysis
+\- 🌍 Carbon emission estimation
+\- ⛽ Fuel-consumption prediction
+\- 🧠 Random Forest regression
+\- ⚡ XGBoost regression
+\- 🗺️ Route analysis
+\- 🚦 Traffic-aware optimization
+\- 📊 Sustainability analytics
+\- 🖥️ React-based dashboard
+\- 🐍 Python & Flask backend
+\- 🗄️ MySQL database
 
-## 🌱 GoGreen — Carbon-Aware Eco-Route Optimization
+\> \*\*Status:\*\* 🚧 In Progress
 
-**AI-Powered Sustainable Transportation System**
+🎓 Education
+K.S. Institute of Technology — Bengaluru, Karnataka
 
-`React.js` `Python` `Flask` `MySQL` `Machine Learning` `Random Forest` `XGBoost`
+Bachelor of Engineering (B.E.)
 
-GoGreen is an AI-based eco-routing platform focused on recommending **fuel-efficient transportation routes while considering sustainability**.
+Computer Science and Engineering
 
-### Key Features
 
-* 🚗 Multi-vehicle transportation analysis
-* 🌍 Carbon emission estimation
-* ⛽ Fuel-consumption prediction
-* 🧠 Random Forest regression
-* ⚡ XGBoost regression
-* 🗺️ Route analysis
-* 🚦 Traffic-aware optimization
-* 📊 Sustainability analytics
-* 🖥️ React-based dashboard
-* 🐍 Python & Flask backend
-* 🗄️ MySQL database
 
-**Status:** 🚧 In Progress
+📚 Relevant Coursework
+Data Structures & Algorithms
+Object-Oriented Programming
+Database Management Systems
+Computer Networks
+Operating Systems
+Software Engineering
 
----
 
-# 🎓 Education
 
-### K.S. Institute of Technology — Bengaluru, Karnataka
+🌐 Languages
+Kannada — Native      English          Hindi         Telugu
 
-**Bachelor of Engineering (B.E.)**
-**Computer Science and Engineering**
+🤝 Let's Connect
+\<div align="center"> \<a href="[https://github.com/Veerendra0305](https://github.com/Veerendra0305)"> \<img src="[https://img.shields.io/badge/GitHub-Veerendra0305-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Veerendra0305-181717?style=for-the-badge\&logo=github\&logoColor=white)"/> \</a> \<a href="[https://www.linkedin.com/in/veerendra-r-227935309/](https://www.linkedin.com/in/veerendra-r-227935309/)"> \<img src="[https://img.shields.io/badge/LinkedIn-Veerendra\_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Veerendra_R-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/> \</a> \<a href="mailto\:rveerendra244\@gmail.com"> \<img src="[https://img.shields.io/badge/Email-Contact\_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)"/> \</a> \</div>
 
-### 📚 Relevant Coursework
+\<div align="center">
+⭐ Thanks for visiting my profile!
 
-`Data Structures & Algorithms`
-`Object-Oriented Programming`
-`Database Management Systems`
-`Computer Networks`
-`Operating Systems`
-`Software Engineering`
+Building • Learning • Creating • Improving
 
----
-
-# 🌐 Languages
-
-| Language | Proficiency |
-| -------- | ----------- |
-| Kannada  | Native      |
-| English  | —           |
-| Hindi    | —           |
-| Telugu   | —           |
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Veerendra0305&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Veerendra0305&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-# 🧭 My Developer Journey
-
-```text
-Learn
-  ↓
-Build
-  ↓
-Experiment
-  ↓
-Solve Real Problems
-  ↓
-Improve
-  ↓
-Build Better Systems
-```
-
-I'm continuously improving my skills across:
-
-**Full Stack Development → Backend Engineering → Databases → AI/ML → Cloud → System Design**
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in connecting with developers, students, recruiters, and people working on interesting technology projects.
-
-<div align="center">
-
-<a href="https://github.com/Veerendra0305">
-<img src="https://img.shields.io/badge/GitHub-Veerendra0305-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/veerendra-r-227935309/">
-<img src="https://img.shields.io/badge/LinkedIn-Veerendra_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rveerendra244@gmail.com">
-<img src="https://img.shields.io/badge/Email-rveerendra244%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Building • Learning • Creating • Improving**
-
-</div>
+\</div> \`\`\`
